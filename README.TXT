@@ -1,8 +1,3 @@
-README for Project 2
-Author: Kylie Guarin
-ID#: 20369499
-CS112 - Alark Joshi
-
 About the Program:
 
 This program is AWESOME!!! This is how I will edit ALL of the IG pictures now.
@@ -44,20 +39,8 @@ webpage. I don't think I would use this in real life.
 -swapCorners(), swaps the opposite corners of the image
 - and blur(), which blurs the image by taking the average of the adjacent pixels and sets that as the pixel
 
-Extra Credit Methods:
 -scaleLarger() takes in an integer and makes the picture larger depending on what integer is passed.
 -eightSqaures() divides the image into 9 squares and puts them into random locations
-
-Problems Faced:
-This was a very visual program. I had to draw it out on my whiteboard and see where the pixels go. However, I think that 
-affine transformations that I learned in Linear Algebra helped me. 
-Most of the methods were easy to write. However, I did have trouble with blur. I was approaching the problem wrong and 
-I ended up taking a break in order to clear my mind.
-
-
-Resources:
-I went to Alark's office hours for help with blur. He was able to explain it to me and also wrote down pseudocode that
-I used and incorporated into my program.
 
 
 
